@@ -1,0 +1,1 @@
+The `pascal_iterator.py` file provides the code that accompanies the pascal iterator [tutorial](http://blog.dublinsam.com/iterating-through-pascals-triangle).
